@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaikot_mr9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015322578979https://www.facebook.com/profile.php?id=100015322578979) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaikot_mr9?igshid=OGQ5ZDc2ODk2ZA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiful-islam-shaikat-8839ba181/) 
 
 # 💻 My Skill:
 <p align="center">
@@ -21,7 +21,7 @@
     <img src="https://simpleicons.org/icons/firebase.svg" alt="Firebase Logo" width="50" height="50" style="color: #FFCA28">
 </p>
 
-# 💻 My Skill:
+# 💻 GitHub Stats:
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shaikot07&theme=dark" alt="GitHub Streak" width="800" />
