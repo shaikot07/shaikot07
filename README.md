@@ -58,4 +58,12 @@
 - live Site link: https://assignment-12-cb947.web.app/
 
 
+## Fitnes Home Project Details :
+my web site name is FitnesHome 
+
+- Implemented user registration and authentication
+- Registered users can add, and update, service
+- Search functionality for users to find specific category
+- Integrated MongoDB for efficient data management
+- live site link: https://assignment-11-clint-side-8097e.web.app/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
