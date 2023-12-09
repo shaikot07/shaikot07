@@ -42,4 +42,20 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shaikot07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## Daily -Piuse Project Details:
+- I make a online newsPaper . my web side name is DailyPulse
+
+- it's function focus web site . i well create user and Admin different Rout . if user is admin then he show Admin Home and Admin related route.
+
+- and if user is normal user he/she Show user Home and user related routes
+
+- all Admin route Are AdminProtected and user route are also privateRoute
+
+- i also use infinity Loop in the all article page, and lotte-react, react-simple-typewriter,
+- i  use firebase Auth And mongodb database,
+
+- live Site link: https://assignment-12-cb947.web.app/
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
