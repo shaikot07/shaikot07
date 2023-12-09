@@ -66,4 +66,20 @@ my web site name is FitnesHome
 - Search functionality for users to find specific category
 - Integrated MongoDB for efficient data management
 - live site link: https://assignment-11-clint-side-8097e.web.app/
+
+  ## Car Hub Project Details :
+- my site name is CarHub now i tell something about my site
+
+- i implement firebase auth for register new account with email and password
+
+- login with vialed email and password if you give wrong password or email you don't access
+
+- i also implement privet route if you are not login site you can't goto other route
+
+- its fully mobile responsive.
+
+- when you press add to cart button . data will be save the mongo db data base
+
+- when goto my cart there have your choose product
+- SITE LIVE LINK: https://assignment-10-clint-side.netlify.app/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
