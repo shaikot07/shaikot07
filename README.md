@@ -29,7 +29,8 @@ Hi 👋, I'm Saiful islam Shaikot
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shaikot07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shaikot07&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shaikot07)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
