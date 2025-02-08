@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Saiful islam Shaikot
 # 💫 About Me:
-🔭 I’m currently working on :  Exciting My Daily-plus projects to enhance my skills and showcase my abilities<br>👯 I’m looking to collaborate on :  Innovative projects that challenge and expand my Frontend developer expertise I’m looking to collaborate on<br>🤝 I’m looking for help with : Strategies for optimizing performance and efficiency in Frontend development.<br>🌱 I’m currently learning : Advanced techniques in Typescript, Redux React.js, Node.js, and MongoDB to stay at the forfront of web development.<br>💬 Ask me about : Anything related to Frontend development, MERN stack development, and JavaScript I’m always up for a tech chat!<br>⚡ Fun fact :   I Can Recite The Entire React Project From Memory! !
+🔭 I’m currently working on :  Exciting My Daily-plus projects to enhance my skills and showcase my abilities<br>👯 I’m looking to collaborate on :  Innovative projects that challenge and expand my Frontend developer expertise I’m looking to collaborate on<br>🤝 I’m looking for help with : Strategies for optimizing performance and efficiency in Frontend development.<br>🌱 I’m currently learning : Advanced techniques in Typescript, Redux React.js, Node.js, and MongoDB to stay at the for front of web development.<br>💬 Ask me about : Anything related to Frontend development, MERN stack development, and JavaScript I’m always up for a tech chat!<br>⚡ Fun fact :   I Can Recite The Entire React Project From Memory! !
 
 
 ## 🌐 Reach me out:
