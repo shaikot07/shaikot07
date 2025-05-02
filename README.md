@@ -68,8 +68,10 @@ I can recite an entire React project from memory! 😉
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose Logo" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman Logo" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS Logo" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/firebase/firebaseui-web/master/images/firebase-logo.png" alt="Firebase Logo" width="50" height="50">
+   <!-- Tailwind CSS Logo (New Source) -->
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/logo.svg" alt="Tailwind CSS Logo" width="50" height="50">
+    <!-- Firebase Logo (New Source) -->
+    <img src="https://raw.githubusercontent.com/firebase/firebase-android-sdk/master/docs/images/firebase_logo.png" alt="Firebase Logo" width="50" height="50">
 </p>
 
 ---
