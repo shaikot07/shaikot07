@@ -99,43 +99,36 @@ I can recite an entire React project from memory! 😉
 [![](https://visitcount.itsvg.in/api?id=shaikot07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## Daily -Piuse Project Details:
-- I make a online newsPaper . my web side name is DailyPulse
+### 🏠 **Basa Khuji.com** (Full-Stack Rental Management Platform)
+**GitHub:** [Client](https://github.com/your-username/basa-khuji-client) | [Server](https://github.com/your-username/basa-khuji-server) | [Live Link](https://basa-khuji.com)
 
-- it's function focus web site . i well create user and Admin different Rout . if user is admin then he show Admin Home and Admin related route.
+**Tech Stack:** Next.js | TypeScript | Tailwind CSS | Node.js | Express.js | MongoDB | JWT | ShurjoPay
 
-- and if user is normal user he/she Show user Home and user related routes
+- Developed multi-role dashboards (Tenant, Landlord, Admin) with secure login and role-based access.
+- Enabled real-time listing filters, rental request workflows, and secure payments.
+- Integrated ShurjoPay gateway, bcrypt encryption, and REST APIs.
 
-- all Admin route Are AdminProtected and user route are also privateRoute
+---
 
-- i also use infinity Loop in the all article page, and lotte-react, react-simple-typewriter,
-- i  use firebase Auth And mongodb database,
+### 🚲 **Bike House** (E-Commerce Bike Shop Application)
+**GitHub:** [Client](https://github.com/your-username/bike-house-client) | [Server](https://github.com/your-username/bike-house-server) | [Live Link](https://bike-house.com)
 
-- live Site link: https://assignment-12-cb947.web.app/
+**Tech Stack:** React | TypeScript | Redux | Tailwind CSS | Node.js | Express.js | MongoDB
 
+- Built a full-stack e-commerce app with JWT-based authentication and role-based access (Customer/Admin).
+- Designed a responsive UI with advanced search and filters for bikes by brand, price, and category.
+- Integrated SurjoPay for secure checkout and real-time payment processing.
+- Implemented dashboards for users and admins to manage orders, products (CRUD).
 
-## Fitnes Home Project Details :
-my web site name is FitnesHome 
+---
 
-- Implemented user registration and authentication
-- Registered users can add, and update, service
-- Search functionality for users to find specific category
-- Integrated MongoDB for efficient data management
-- live site link: https://assignment-11-clint-side-8097e.web.app/
+### 🎓 **InnovateED** (An Online Education System)
+**GitHub:** [Client](https://github.com/your-username/innovateed-client) | [Server](https://github.com/your-username/innovateed-server) | [Live Link](https://innovateed.com)
 
-  ## Car Hub Project Details :
-- my site name is CarHub now i tell something about my site
+**Tech Stack:** React | Tailwind CSS | Redux | Firebase | Express.js | Mongoose
 
-- i implement firebase auth for register new account with email and password
+- Individual user management for up to three users (Student, Teacher, Admin).
+- Integrated video class functionality and live session capabilities.
 
-- login with vialed email and password if you give wrong password or email you don't access
-
-- i also implement privet route if you are not login site you can't goto other route
-
-- its fully mobile responsive.
-
-- when you press add to cart button . data will be save the mongo db data base
-
-- when goto my cart there have your choose product
-- SITE LIVE LINK: https://assignment-10-clint-side.netlify.app/
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
