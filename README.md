@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/pRvycx9/git-banner.jpg" alt="Alt text">
+<img src="https://res.cloudinary.com/dy0b6hvog/image/upload/v1746186036/git-banner_byribf.jpg" alt="Alt text">
 
 Hi 👋, I'm Saiful islam Shaikot
 # 💫 About Me:
