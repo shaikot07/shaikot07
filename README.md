@@ -111,7 +111,7 @@ I can recite an entire React project from memory! 😉
 ---
 
 ### 🚲 **Bike House** (E-Commerce Bike Shop Application)
-**GitHub:** [Client](https://github.com/your-username/bike-house-client) | [Server](https://github.com/your-username/bike-house-server) | [Live Link](https://bike-house.com)
+**GitHub:** [Client](https://github.com/shaikot07/bike-house-client) | [Server](https://github.com/shaikot07/l-2-assignment-2-bike-store-server) | [Live Link](https://bike-house-l2-as4.netlify.app/)
 
 **Tech Stack:** React | TypeScript | Redux | Tailwind CSS | Node.js | Express.js | MongoDB
 
@@ -123,7 +123,7 @@ I can recite an entire React project from memory! 😉
 ---
 
 ### 🎓 **InnovateED** (An Online Education System)
-**GitHub:** [Client](https://github.com/your-username/innovateed-client) | [Server](https://github.com/your-username/innovateed-server) | [Live Link](https://innovateed.com)
+**GitHub:** [Client](https://github.com/ruksana03/EdTech-client) | [Server](https://github.com/ruksana03/EdTech-Server) | [Live Link](https://innavated.web.app/)
 
 **Tech Stack:** React | Tailwind CSS | Redux | Firebase | Express.js | Mongoose
 
