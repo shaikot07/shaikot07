@@ -100,7 +100,7 @@ I can recite an entire React project from memory! 😉
 
 
 ### 🏠 **Basa Khuji.com** (Full-Stack Rental Management Platform)
-**GitHub:** [Client](https://github.com/your-username/basa-khuji-client) | [Server](https://github.com/your-username/basa-khuji-server) | [Live Link](https://basa-khuji.com)
+**GitHub:** [Client](https://github.com/shaikot07/BasaKhuji-next-client) | [Server](https://github.com/shaikot07/Basakhuji-server) | [Live Link](https://basa-khuji-next-client.vercel.app/)
 
 **Tech Stack:** Next.js | TypeScript | Tailwind CSS | Node.js | Express.js | MongoDB | JWT | ShurjoPay
 
