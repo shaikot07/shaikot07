@@ -3,7 +3,6 @@
 Hi 👋, I'm Saiful islam Shaikot
 # 💫 About Me:
 ### 👋 About Me
-About Me
 
 I'm a passionate **Full-Stack Developer** with expertise in the **MERN Stack**, **Next.js**, and **TypeScript**. I focus on building scalable, real-time, and user-friendly web applications. I specialize in developing full-stack solutions using **MongoDB**, **Express.js**, **React.js**, and **Node.js**, with **Next.js** for performance-optimized frontends and **TypeScript** for reliable, maintainable code. Whether it's creating powerful APIs, crafting seamless user interfaces, or deploying applications to production, I enjoy working across the entire development lifecycle.
 
