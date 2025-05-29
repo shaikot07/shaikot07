@@ -36,7 +36,7 @@ I'm a passionate **Full-Stack Developer** with expertise in the **MERN Stack**, 
 ---
 
 ### 💬 Ask Me About  
-Anything related to **Frontend Development**, **MERN Stack**, **JavaScript**, **TypeScript**, or **Next.js** — I'm always up for a tech chat!
+Anything related to **Frontend Development**, **MERN Stack**, **JavaScript**, **TypeScript**, or **Next.js** **MERN base Back end** — I'm always up for a tech chat!
 
 ---
 
