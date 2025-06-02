@@ -99,29 +99,10 @@ I can recite an entire React project from memory! 😉
 [![](https://visitcount.itsvg.in/api?id=shaikot07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### 🏠 **Basa Khuji.com** (Full-Stack Rental Management Platform)
-**GitHub:** [Client](https://github.com/shaikot07/BasaKhuji-next-client) | [Server](https://github.com/shaikot07/Basakhuji-server) | [Live Link](https://basa-khuji-next-client.vercel.app/)
 
-**Tech Stack:** Next.js | TypeScript | Tailwind CSS | Node.js | Express.js | MongoDB | JWT | ShurjoPay
 
-- Developed multi-role dashboards (Tenant, Landlord, Admin) with secure login and role-based access.
-- Enabled real-time listing filters, rental request workflows, and secure payments.
-- Integrated ShurjoPay gateway, bcrypt encryption, and REST APIs.
 
----
-
-### 🚲 **Bike House** (E-Commerce Bike Shop Application)
-**GitHub:** [Client](https://github.com/shaikot07/bike-house-client) | [Server](https://github.com/shaikot07/l-2-assignment-2-bike-store-server) | [Live Link](https://bike-house-l2-as4.netlify.app/)
-
-**Tech Stack:** React | TypeScript | Redux | Tailwind CSS | Node.js | Express.js | MongoDB
-
-- Built a full-stack e-commerce app with JWT-based authentication and role-based access (Customer/Admin).
-- Designed a responsive UI with advanced search and filters for bikes by brand, price, and category.
-- Integrated SurjoPay for secure checkout and real-time payment processing.
-- Implemented dashboards for users and admins to manage orders, products (CRUD).
-
----
-
+<!--
 ### 🎓 **InnovateED** (An Online Education System)
 **GitHub:** [Client](https://github.com/ruksana03/EdTech-client) | [Server](https://github.com/ruksana03/EdTech-Server) | [Live Link](https://innavated.web.app/)
 
@@ -129,6 +110,6 @@ I can recite an entire React project from memory! 😉
 
 - Individual user management for up to three users (Student, Teacher, Admin).
 - Integrated video class functionality and live session capabilities.
-
+-->
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
