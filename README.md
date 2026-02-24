@@ -9,12 +9,11 @@ I'm a passionate **Full-Stack Developer** with expertise in the **MERN Stack**, 
 ---
 
 ### 💡 What I Do
-- Build responsive and dynamic frontends with **React.js**, **Next.js**, and **TypeScript**
+- Build responsive and dynamic web and mobile apps with **React.js**, **Next.js**, **React Native**, and **TypeScript**
 - Develop RESTful APIs with **Node.js** and **Express.js**
-- Design scalable database structures with **MongoDB**
-- Write clean, maintainable code and build interactive user interfaces with modern frontend tools
+- Design scalable and efficient database structures with **MongoDB**
+- Write clean, maintainable code and create interactive user interfaces using modern frontend technologies
 - Deploy and manage full-stack applications using modern tools and best practices
-
 
 ---
 
